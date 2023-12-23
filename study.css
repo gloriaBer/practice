@@ -1,0 +1,56 @@
+.navbar{
+    width: 100%;
+  background-color: rgb(84, 121, 84);
+  overflow: auto;
+}
+.navbar a {
+    float: left;
+    padding: 12px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+   
+  }
+  .navbar a:hover {
+    background-color: black;
+  }
+  .div-form{
+    border: 6px solid rgb(22, 20, 20);;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+  }
+  legend {
+    background-color: #000;
+    color: #fff;
+    padding: 3px 6px;
+  }
+  #button{
+    background-color: green;
+    border-radius: 10px;
+    font-size: 20px;
+  }
+.footer-div ul li {
+    float: left;
+    text-decoration: none;
+}
+.footer-div li a{
+text-decoration: none;
+display: block;
+text-align: center;
+padding: 14px 16px 20px;
+
+}
+ li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.container div{
+  float: left;
+  width: 100%;
+  background-color: rgb(84, 121, 84);
+   padding: 20px;
+   
+}

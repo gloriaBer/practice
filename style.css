@@ -1,0 +1,121 @@
+body {
+  margin-top: 0;
+  padding-top: 0;
+  height: 100%;
+  width: 100%;
+}
+
+header{
+    top: 0;
+    padding-top: 0;
+    margin-top: 0;
+
+}
+.nav{
+    list-style-type: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #8f8787;
+    position: fixed;
+  }
+
+ .nav li {
+    float: left;
+  }
+
+  .nav li a{
+    display: block;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px 20px;
+    text-align: center;
+    padding: 14px 16px 20px;
+    text-decoration: none;
+  }
+
+  a:hover {
+    background-color: rgb(64, 64, 147)
+  }
+  p {
+      padding: 5px;
+      margin: 0;
+      padding: 0;
+  }
+  footer{
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    background-color: #8f8787;
+    color: white;
+    text-decoration: none;
+    height: fit-content;
+    }
+    div {
+        width: 33%;
+        overflow:auto;
+        float:right;
+        display: inline;
+        margin: 16px 20px;
+
+    }
+     .contact li {
+       margin-bottom: 20px; 
+    }
+    .contact{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .contact li a{
+
+        color: white;
+        text-align: center;
+        padding: 14px 18px 20px;
+        text-decoration: none;
+        align-items: center;
+
+    }
+.link{
+    display: grid;
+
+
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  form{
+    padding-top: 30px;
+    text-align: center;
+  }
+  .button{
+   background-color: #ffe4c4;
+   font-size: 25px;
+   border-radius: 20px;
+   float: left;
+   width: 50%;
+   
+
+  }
+  .search-container{
+    float: none;
+    display: block;
+    text-align: center;
+    width: 50%;
+    margin: 100px;
+    margin-left: 40px;
+    padding: 14px;
+    padding:20px;
+  }
+  p{
+    text-align: center;
+    
+  }
